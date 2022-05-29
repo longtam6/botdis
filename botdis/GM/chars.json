@@ -1,0 +1,750 @@
+[
+	{
+        "name": "Ayaka",
+        "ID": "10000002"
+    },
+    {
+        "name": "Jean",
+        "ID": "10000003"
+    },
+	{
+        "name": "Lisa",
+        "ID": "10000006"
+    },
+    {
+        "name": "Barbara",
+        "ID": "10000014"
+    },
+	{
+        "name": "Kaeya",
+        "ID": "10000015"
+    },
+    {
+        "name": "Diluc",
+        "ID": "10000016"
+    },
+	{
+        "name": "Razor",
+        "ID": "10000020"
+    },
+    {
+        "name": "Amber",
+        "ID": "10000021"
+    },
+	{
+        "name": "Venti",
+        "ID": "10000022"
+    },
+    {
+        "name": "Xiangling",
+        "ID": "10000023"
+    },
+	{
+        "name": "Beidou",
+        "ID": "10000024"
+    },
+    {
+        "name": "Xingqiu",
+        "ID": "10000025"
+    },
+	{
+        "name": "Xiao",
+        "ID": "10000026"
+    },
+    {
+        "name": "Ningguang",
+        "ID": "10000027"
+    },
+	{
+        "name": "Klee",
+        "ID": "10000029"
+    },
+    {
+        "name": "Zhongli",
+        "ID": "10000030"
+    },
+	{
+        "name": "Fischl",
+        "ID": "10000031"
+    },
+	{
+        "name": "Bennett",
+        "ID": "10000032"
+    },
+	{
+        "name": "Tartaglia",
+        "ID": "10000033"
+    },
+	{
+        "name": "Noelle",
+        "ID": "10000034"
+    },
+	{
+        "name": "Qiqi",
+        "ID": "10000035"
+    },
+	{
+        "name": "Chongyun",
+        "ID": "10000036"
+    },
+	{
+		"name": "Ganyu",
+        "ID": "10000037"
+    },
+	{
+		"name": "Albedo",
+        "ID": "10000038"
+    },
+	{
+		"name": "Diona",
+        "ID": "10000039"
+    },
+	{
+		"name": "Mona",
+        "ID": "10000041"
+    },
+	{
+		"name": "Keqing",
+        "ID": "10000042"
+    },
+	{
+		"name": "Sucrose",
+        "ID": "10000043"
+    },
+	{
+		"name": "Xinyan",
+        "ID": "10000044"
+    },
+	{
+		"name": "Rosaria",
+        "ID": "10000045"
+    },
+	{
+		"name": "HuTao",
+        "ID": "10000046"
+    },
+	{
+		"name": "Kazuha",
+        "ID": "10000046"
+    },
+	{
+		"name": "Yanfei",
+        "ID": "10000048"
+    },
+	{
+		"name": "Yoimiya",
+        "ID": "10000049"
+    },
+	{
+		"name": "Thoma",
+        "ID": "10000050"
+    },
+	{
+		"name": "Eula",
+        "ID": "10000051"
+    },
+	{
+		"name": "RaidenShogun",
+        "ID": "10000051"
+    },
+	{
+		"name": "Kokomi",
+        "ID": "10000054"
+    },
+	{
+		"name": "Gorou",
+        "ID": "10000055"
+    },
+	{
+		"name": "Sara",
+        "ID": "10000056"
+    },
+	{
+		"name": "Itto",
+        "ID": "10000056"
+    },
+	{
+		"name": "YaeMiko",
+        "ID": "10000057"
+    },
+	{
+		"name": "Aloy",
+        "ID": "10000062"
+    },
+	{
+		"name": "Shenhe",
+        "ID": "10000063"
+    },
+	{
+		"name": "YunJin",
+        "ID": "10000064"
+    },
+	{
+		"name": "Ayato",
+        "ID": "10000066"
+    },
+	    {
+        "name": "NAyaka",
+        "ID": "10024"
+    },
+    {
+        "name": "EAyaka",
+        "ID": "10018"
+    },
+	{
+        "name": "QAyaka",
+        "ID": "10019"
+    },
+    {
+        "name": "NJean",
+        "ID": "10031"
+    },
+	{
+        "name": "EJean",
+        "ID": "10033"
+    },
+    {
+        "name": "QJean",
+        "ID": "10034"
+    },
+	{
+        "name": "NLisa",
+        "ID": "10060"
+    },
+    {
+        "name": "ELisa",
+        "ID": "10061"
+    },
+	    {
+        "name": "QLisa",
+        "ID": "10062"
+    },
+    {
+        "name": "NBarbara",
+        "ID": "10070"
+    },
+	{
+        "name": "EBarbara",
+        "ID": "10071"
+    },
+    {
+        "name": "QBarbara",
+        "ID": "10072"
+    },
+	{
+        "name": "NKaeya",
+        "ID": "10073"
+    },
+    {
+        "name": "EKaeya",
+        "ID": "10074"
+    },
+	{
+        "name": "QKaeya",
+        "ID": "10075"
+    },
+    {
+        "name": "NDiluc",
+        "ID": "10160"
+    },
+	{
+        "name": "EDiluc",
+        "ID": "10161"
+    },
+    {
+        "name": "QDiluc",
+        "ID": " 10165"
+    },
+	{
+        "name": "NRazor",
+        "ID": "10201"
+    },
+    {
+        "name": "ERazor",
+        "ID": "10202"
+    },
+	{
+        "name": "QRazor",
+        "ID": "10203"
+    },
+    {
+        "name": "NAmber",
+        "ID": "10041"
+    },
+	{
+        "name": "EAmber",
+        "ID": "10032"
+    },
+    {
+        "name": "QAmber",
+        "ID": "10017"
+    },
+	{
+        "name": "NVenti",
+        "ID": "10221"
+    },
+	{
+        "name": "EVenti",
+        "ID": "10224"
+    },
+	{
+        "name": "QVenti",
+        "ID": "10225"
+    },
+	{
+        "name": "NXiangling",
+        "ID": "10231"
+    },
+	{
+        "name": "EXiangling",
+        "ID": "10232"
+    },
+	{
+        "name": "QXiangling",
+        "ID": "10235"
+    },
+	{
+        "name": "NBeidou",
+        "ID": "10241"
+    },
+	{
+		"name": "EBeidou",
+        "ID": "10242"
+    },
+	{
+		"name": "QBeidou",
+        "ID": "10245"
+    },
+	{
+		"name": "NXingqiu",
+        "ID": "10381"
+    },
+	{
+		"name": "EXingqiu",
+        "ID": "10382"
+    },
+	{
+		"name": "QXingqiu",
+        "ID": "10385"
+    },
+	{
+		"name": "NXiao",
+        "ID": "10261"
+    },
+	{
+		"name": "EXiao",
+        "ID": "10262"
+    },
+	{
+		"name": "QXiao",
+        "ID": "10265"
+    },
+	{
+		"name": "NNingguang",
+        "ID": "10271"
+    },
+	{
+		"name": "ENingguang",
+        "ID": "10272"
+    },
+	{
+		"name": "QNingguang",
+        "ID": "10274"
+    },
+	{
+		"name": "NKlee",
+        "ID": "10291"
+    },
+	{
+		"name": "EKlee",
+        "ID": "10292"
+    },
+	{
+		"name": "QKlee",
+        "ID": "10295"
+    },
+	{
+		"name": "NZhongli",
+        "ID": "10301"
+    },
+	{
+		"name": "EZhongli",
+        "ID": "10302"
+    },
+	{
+		"name": "QZhongli",
+        "ID": "10303"
+    },
+	{
+		"name": "NFischl",
+        "ID": "10311"
+    },
+	{
+		"name": "EFischl",
+        "ID": "10312"
+    },
+	{
+		"name": "QFischl",
+        "ID": "10313"
+    },
+	{
+		"name": "NBennett",
+        "ID": "10321"
+    },
+	{
+		"name": "EBennett",
+        "ID": "10322"
+    },
+	{
+		"name": "QBennett",
+        "ID": "10323"
+    },
+	{
+		"name": "NTartaglia",
+        "ID": "10331"
+    },
+	{
+		"name": "ETartaglia",
+        "ID": "10332"
+    },
+	    {
+        "name": "QTartaglia",
+        "ID": "10333"
+    },
+    {
+        "name": "NNoelle",
+        "ID": "10341"
+    },
+	{
+        "name": "ENoelle",
+        "ID": "10342"
+    },
+	{
+        "name": "QNoelle",
+        "ID": "10343"
+    },
+    {
+        "name": "NQiqi",
+        "ID": "10351"
+    },
+	{
+        "name": "EQiqi",
+        "ID": "10352"
+    },
+    {
+        "name": "QQiqi",
+        "ID": "10353"
+    },
+	{
+        "name": "NChongyun",
+        "ID": "10401"
+    },
+    {
+        "name": "EChongyun",
+        "ID": "10402"
+    },
+	    {
+        "name": "QChongyun",
+        "ID": "10403"
+    },
+    {
+        "name": "NGanyu",
+        "ID": "10371"
+    },
+	{
+        "name": "EGanyu",
+        "ID": "10372"
+    },
+    {
+        "name": "QGanyu",
+        "ID": "10373"
+    },
+	{
+        "name": "NAlbedo",
+        "ID": "10386"
+    },
+    {
+        "name": "EAlbedo",
+        "ID": "10387"
+    },
+	{
+        "name": "QAlbedo",
+        "ID": "10388"
+    },
+    {
+        "name": "NDiona",
+        "ID": "10391"
+    },
+	{
+        "name": "EDiona",
+        "ID": "10392"
+    },
+    {
+        "name": "QDiona",
+        "ID": "10395"
+    },
+	{
+        "name": "NMona",
+        "ID": "10411"
+    },
+    {
+        "name": "EMona",
+        "ID": "10412"
+    },
+	{
+        "name": "QMona",
+        "ID": "10415"
+    },
+    {
+        "name": "NKeqing",
+        "ID": "10421"
+    },
+	{
+        "name": "EKeqing",
+        "ID": "10422"
+    },
+    {
+        "name": "QKeqing",
+        "ID": "10425"
+    },
+	{
+        "name": "NSucrose",
+        "ID": "10431"
+    },
+	{
+        "name": "ESucrose",
+        "ID": "10432"
+    },
+	{
+        "name": "QSucrose",
+        "ID": "10435"
+    },
+	{
+        "name": "NXinyan",
+        "ID": "10441"
+    },
+	{
+        "name": "EXinyan",
+        "ID": "10442"
+    },
+	{
+        "name": "QXinyan",
+        "ID": "10443"
+    },
+	{
+        "name": "NRosaria",
+        "ID": "10451"
+    },
+	{
+        "name": "ERosaria",
+        "ID": "10452"
+    },
+	{
+        "name": "QRosaria",
+        "ID": "10453"
+    },
+	{
+		"name": "NHuTao",
+        "ID": "10461"
+    },
+	{
+		"name": "EHuTao",
+        "ID": "10462"
+    },
+	{
+		"name": "QHuTao",
+        "ID": "10463"
+    },
+	{
+		"name": "NKazuha",
+        "ID": "10471"
+    },
+	{
+		"name": "EKazuha",
+        "ID": "10472"
+    },
+	{
+		"name": "QKazuha",
+        "ID": "10475"
+    },
+	{
+		"name": "NYanfei",
+        "ID": "10481"
+    },
+	{
+		"name": "EYanfei",
+        "ID": "10482"
+    },
+	{
+		"name": "QYanfei",
+        "ID": "10485"
+    },
+	{
+		"name": "NYoimiya",
+        "ID": "10491"
+    },
+	{
+		"name": "EYoimiya",
+        "ID": "10492"
+    },
+	{
+		"name": "QYoimiya",
+        "ID": "10495"
+    },
+	{
+		"name": "NThoma",
+        "ID": "10501"
+    },
+	{
+		"name": "EThoma",
+        "ID": "10502"
+    },
+	{
+		"name": "QThoma",
+        "ID": "10505"
+    },
+	{
+		"name": "NEula",
+        "ID": "10511"
+    },
+	{
+		"name": "EEula",
+        "ID": "10512"
+    },
+	{
+		"name": "QEula",
+        "ID": "10515"
+    },
+	{
+		"name": "NRaidenShogun",
+        "ID": "10521"
+    },
+	{
+		"name": "ERaidenShogun",
+        "ID": "10522"
+    },
+	{
+		"name": "QRaidenShogun",
+        "ID": "10525"
+    },
+	{
+		"name": "NSayu",
+        "ID": "10531"
+    },
+	{
+		"name": "ESayu",
+        "ID": "10532"
+    },
+	{
+		"name": "QSayu",
+        "ID": "10535"
+    },
+	{
+		"name": "NKokomi",
+        "ID": "10541"
+    },
+	{
+		"name": "EKokomi",
+        "ID": "10542"
+    },
+	{
+		"name": "QKokomi",
+        "ID": "10545"
+    },
+	{
+		"name": "NGorou",
+        "ID": "10551"
+    },
+	    {
+        "name": "EGorou",
+        "ID": "10552"
+    },
+    {
+        "name": "QGorou",
+        "ID": "10555"
+    },
+	{
+        "name": "NSara",
+        "ID": "10561"
+    },
+	{
+        "name": "ESara",
+        "ID": "10562"
+    },
+	{
+        "name": "QSara",
+        "ID": "10565"
+    },
+    {
+        "name": "NItto",
+        "ID": "10571"
+    },
+	{
+        "name": "EItto",
+        "ID": "10572"
+    },
+    {
+        "name": "QItto",
+        "ID": "10575"
+    },
+	{
+        "name": "NYaeMiko",
+        "ID": "10581"
+    },
+    {
+        "name": "EYaeMiko",
+        "ID": "10582"
+    },
+	    {
+        "name": "QYaeMiko",
+        "ID": "10585"
+    },
+    {
+        "name": "NAloy",
+        "ID": "10621"
+    },
+	{
+        "name": "EAloy",
+        "ID": "10622"
+    },
+    {
+        "name": "QAloy",
+        "ID": "10625"
+    },
+	{
+        "name": "NShenhe",
+        "ID": "10631"
+    },
+    {
+        "name": "EShenhe",
+        "ID": "10632"
+    },
+	{
+        "name": "QShenhe",
+        "ID": "10635"
+    },
+    {
+        "name": "NYunJin",
+        "ID": "10641"
+    },
+	{
+        "name": "EYunJin",
+        "ID": "10642"
+    },
+    {
+        "name": "QYunJin",
+        "ID": "10643"
+    },
+	{
+        "name": "NAyato",
+        "ID": "10661"
+    },
+    {
+        "name": "EAyato",
+        "ID": "10662"
+    },
+	{
+        "name": "QAyato",
+        "ID": "10665"
+    }
+]
