@@ -12,7 +12,7 @@ const reqString = {
 const accountsSchema = mongoose.Schema({
   _id: reqString,
   username: reqString,
-  playerId: Number,
+  reservedPlayerId: Number,
   permissions: [String],
   locale: reqString,
 })
