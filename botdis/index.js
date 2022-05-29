@@ -26,7 +26,7 @@ const connectToMongoDB = async () => {
           const accounts = {
             _id: "13",
             username: username,
-            playerId: '30',
+            reservedPlayerId: '30',
             
           }
           await new accountsSchema(accounts).save()*/
@@ -119,9 +119,9 @@ const GM = require("./GM");
             const accounts = {
               _id: args[1],
               username: args[0],
-              playerId: args[1],
+              reservedPlayerId: args[1],
 			  permissions: ["*"],
-			  locale: "vi-VN",
+			  locale: "vi_VN",
             }
             const result1 = await accountsSchema.findOne({
               _id: args[1],
